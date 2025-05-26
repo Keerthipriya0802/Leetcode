@@ -1,0 +1,13 @@
+class Solution(object):
+    def moveZeroes(self, nums):
+        l = len(nums)
+        t1 = []
+        t2 = []
+        for i in range(0, l):
+            if nums[i] == 0:
+                t1.append(nums[i])
+            else:
+                t2.append(nums[i])
+        t2.extend(t1)
+        for i in range(l):
+            nums[i] = t2[i]

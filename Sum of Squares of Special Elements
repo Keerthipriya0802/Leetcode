@@ -1,0 +1,9 @@
+class Solution(object):
+    def sumOfSquares(self, nums):
+        sums=0
+        l=len(nums)
+        for i in range(0,l):
+            if(l%(i+1)==0):
+                n=nums[i]*nums[i]
+                sums=sums+n
+        return sums

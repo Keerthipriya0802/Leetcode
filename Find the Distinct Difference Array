@@ -1,0 +1,9 @@
+class Solution(object):
+    def distinctDifferenceArray(self, nums):
+        lst=[]
+        l=len(nums)
+        for i in range(l):
+            prefix=len(set(nums[:i+1]))
+            suffix=len(set(nums[i+1:]))
+            lst.append(prefix-suffix)
+        return lst

@@ -1,0 +1,16 @@
+class Solution(object):
+    def greatestLetter(self, s):
+        lst = list(s)
+        lower = []
+        upper = []
+        for ch in lst:
+            if ch.islower():
+                lower.append(ch)
+            elif ch.isupper():
+                upper.append(ch)
+        same = list(set(lower) & set(ch.lower() for ch in upper))
+        if not same:
+            return ""
+        else:
+            m = max(same)
+            return m.upper()

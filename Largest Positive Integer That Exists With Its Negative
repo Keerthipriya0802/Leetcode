@@ -1,0 +1,8 @@
+class Solution(object):
+    def findMaxK(self, nums):
+        s=set(nums)
+        maxi=-1
+        for num in nums:
+            if -num in s and num > 0:
+                maxi= max(maxi,num)
+        return maxi

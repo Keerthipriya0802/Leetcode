@@ -1,0 +1,17 @@
+class Solution(object):
+    def mostFrequentEven(self, nums):
+        nums.sort()
+        maxi=0
+        n=-1
+        s=set(nums)
+        for i in s:
+            if(i%2==0):
+                c=nums.count(i)
+                if(maxi<c)or(c==maxi and i<n):
+                    maxi=c
+                    n=i
+        return n
+
+
+        
+        

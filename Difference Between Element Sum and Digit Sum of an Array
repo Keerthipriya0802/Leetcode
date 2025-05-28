@@ -1,0 +1,16 @@
+class Solution(object):
+    def differenceOfSum(self, nums):
+        sums=0
+        digit=0
+        k=[]
+
+        for i in nums:
+            sums=sums+i
+            if i>=10:
+                digi=[int(d) for d in str(i)]
+                k.extend(digi)
+            else:
+                k.append(i)
+        for i in k:
+            digit=digit+i
+        return abs(sums-digit)

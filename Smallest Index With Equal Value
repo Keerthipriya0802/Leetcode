@@ -1,0 +1,11 @@
+class Solution(object):
+    def smallestEqual(self, nums):
+        mini=[]
+        l=len(nums)
+        for i in range(0,l):
+            if(i%10==nums[i]):
+                mini.append(i)
+        if not mini:
+            return -1
+        else:
+            return min(mini)

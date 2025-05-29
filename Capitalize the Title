@@ -1,0 +1,12 @@
+class Solution(object):
+    def capitalizeTitle(self, title):
+        s=title.split()
+        w=[]
+        for ch in s:
+            if len(ch)>2:
+                w.append(ch.capitalize())
+            else:
+                w.append(ch.lower())
+        t=' '.join(w)
+        return t
+        

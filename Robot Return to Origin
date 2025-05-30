@@ -1,0 +1,23 @@
+class Solution(object):
+    def judgeCircle(self, moves):
+        n=list(moves)
+        l=len(n)
+        u=0
+        l=0
+        for i in n:
+            if(i=='U'):
+                u=u+1
+            elif(i=='D'):
+                u=u-1
+            if(i=='L'):
+                l=l+1
+            elif(i=='R'):
+                l=l-1
+        if(u==0 and l==0):
+            return True
+        else:
+            return False
+            
+
+
+        

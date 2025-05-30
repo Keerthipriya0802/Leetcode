@@ -1,0 +1,15 @@
+class Solution(object):
+    def kidsWithCandies(self, candies, extraCandies):
+        l=len(candies)
+        b=[]
+        t=True
+        f=False
+        for i in range(0,l):
+            s=candies[i]+extraCandies
+            if(s>=max(candies)):
+                b.append(t)
+            else:
+                b.append(f)
+        return b
+
+        

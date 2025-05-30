@@ -1,0 +1,5 @@
+class Solution(object):
+    def sumOfUnique(self, nums):
+        c=Counter(nums)
+        uni=[num for num,freq in c.items() if freq==1]
+        return sum(uni)

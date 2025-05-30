@@ -1,0 +1,6 @@
+class Solution(object):
+    def addToArrayForm(self, num, k):
+        n = int(''.join(str(d) for d in num))
+        i=n+k
+        j=[int(d) for d in str(i)]
+        return j

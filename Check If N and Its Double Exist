@@ -1,0 +1,15 @@
+class Solution(object):
+    def checkIfExist(self, arr):
+        count=0
+        l=len(arr)
+        for i in range(0,l):
+            for j in range(0,l):
+                if(2*arr[j]==arr[i] and i!=j):
+                    return True
+                else:
+                    count=count+1
+        if(count!=0):
+            return False
+        
+        
+        

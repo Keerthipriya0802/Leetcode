@@ -1,0 +1,9 @@
+class Solution(object):
+    def maximumWealth(self, accounts):
+        maxi=0
+        l=len(accounts)
+        for i in range(0,l):
+            s=sum(accounts[i])
+            if(maxi<s):
+                maxi=s
+        return maxi

@@ -1,0 +1,13 @@
+class Solution(object):
+    def maxProfit(self, prices):
+        mini=float('inf')
+        maxi=0
+        for i in prices:
+            if(i<mini):
+                mini=i
+            else:
+                profit=i-mini
+                if(maxi<profit):
+                    maxi=profit
+        return maxi
+        

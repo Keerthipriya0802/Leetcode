@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/Keerthipriya0802/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Keerthipriya0802/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Keerthipriya0802/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Keerthipriya0802/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Keerthipriya0802/Leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Keerthipriya0802/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -44,5 +45,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Keerthipriya0802/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Keerthipriya0802/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+## String
+|  |
+| ------- |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Keerthipriya0802/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 <!---LeetCode Topics End-->

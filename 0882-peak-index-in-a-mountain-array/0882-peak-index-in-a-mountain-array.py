@@ -1,8 +1,7 @@
 class Solution(object):
     def peakIndexInMountainArray(self, arr):
-        maxi=max(arr)
-        l=len(arr)
-        for i in range(0,l):
-            if(arr[i]==maxi):
+        l = len(arr)
+        for i in range(1, l - 1):
+            if arr[i - 1] < arr[i] and arr[i] > arr[i + 1]:
                 return i
         

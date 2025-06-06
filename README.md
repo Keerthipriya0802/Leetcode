@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Keerthipriya0802/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Keerthipriya0802/Leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Keerthipriya0802/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/Keerthipriya0802/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Keerthipriya0802/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Keerthipriya0802/Leetcode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Keerthipriya0802/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/Keerthipriya0802/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Keerthipriya0802/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |

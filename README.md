@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2122-count-special-quadruplets](https://github.com/Keerthipriya0802/Leetcode/tree/master/2122-count-special-quadruplets) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Keerthipriya0802/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Keerthipriya0802/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/Keerthipriya0802/Leetcode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -48,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Keerthipriya0802/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Keerthipriya0802/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Keerthipriya0802/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Keerthipriya0802/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2502-sort-the-people](https://github.com/Keerthipriya0802/Leetcode/tree/master/2502-sort-the-people) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Keerthipriya0802/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 <!---LeetCode Topics End-->

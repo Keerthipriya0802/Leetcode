@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Keerthipriya0802/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Keerthipriya0802/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Keerthipriya0802/Leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
+| [3221-find-the-peaks](https://github.com/Keerthipriya0802/Leetcode/tree/master/3221-find-the-peaks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Keerthipriya0802/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Keerthipriya0802/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Keerthipriya0802/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Keerthipriya0802/Leetcode/tree/master/1656-count-good-triplets) |
 | [2122-count-special-quadruplets](https://github.com/Keerthipriya0802/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Keerthipriya0802/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [3221-find-the-peaks](https://github.com/Keerthipriya0802/Leetcode/tree/master/3221-find-the-peaks) |
 ## Sorting
 |  |
 | ------- |

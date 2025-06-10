@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Keerthipriya0802/Leetcode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/Keerthipriya0802/Leetcode/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/Keerthipriya0802/Leetcode/tree/master/0292-nim-game) |
+| [0371-sum-of-two-integers](https://github.com/Keerthipriya0802/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Keerthipriya0802/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Keerthipriya0802/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Keerthipriya0802/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Keerthipriya0802/Leetcode/tree/master/0029-divide-two-integers) |
 | [0190-reverse-bits](https://github.com/Keerthipriya0802/Leetcode/tree/master/0190-reverse-bits) |
+| [0371-sum-of-two-integers](https://github.com/Keerthipriya0802/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Divide and Conquer
 |  |
 | ------- |

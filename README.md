@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1293-three-consecutive-odds](https://github.com/Keerthipriya0802/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Keerthipriya0802/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Keerthipriya0802/Leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Keerthipriya0802/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Keerthipriya0802/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2122-count-special-quadruplets](https://github.com/Keerthipriya0802/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Keerthipriya0802/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Keerthipriya0802/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Keerthipriya0802/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Keerthipriya0802/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |

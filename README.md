@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Keerthipriya0802/Leetcode/tree/master/0498-diagonal-traverse) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Keerthipriya0802/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Math
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Keerthipriya0802/Leetcode/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/Keerthipriya0802/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Keerthipriya0802/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Keerthipriya0802/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Keerthipriya0802/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Keerthipriya0802/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Keerthipriya0802/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |

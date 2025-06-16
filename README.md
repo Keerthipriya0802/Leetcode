@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Keerthipriya0802/Leetcode/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/Keerthipriya0802/Leetcode/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/Keerthipriya0802/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0507-perfect-number](https://github.com/Keerthipriya0802/Leetcode/tree/master/0507-perfect-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Keerthipriya0802/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Keerthipriya0802/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Keerthipriya0802/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/Keerthipriya0802/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Keerthipriya0802/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/Keerthipriya0802/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Keerthipriya0802/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Keerthipriya0802/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Keerthipriya0802/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Keerthipriya0802/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Keerthipriya0802/Leetcode/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/Keerthipriya0802/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Keerthipriya0802/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Keerthipriya0802/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Keerthipriya0802/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Keerthipriya0802/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Keerthipriya0802/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |

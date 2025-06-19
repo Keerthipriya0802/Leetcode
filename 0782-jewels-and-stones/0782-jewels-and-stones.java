@@ -7,7 +7,7 @@ class Solution {
             {
                 if(jewels.charAt(i)==stones.charAt(j))
                 {
-                    count=count+1;
+                    count++;
                 }
             }
         }

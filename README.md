@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Keerthipriya0802/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Keerthipriya0802/Leetcode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2122-count-special-quadruplets](https://github.com/Keerthipriya0802/Leetcode/tree/master/2122-count-special-quadruplets) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Keerthipriya0802/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Keerthipriya0802/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Keerthipriya0802/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2350-find-closest-number-to-zero](https://github.com/Keerthipriya0802/Leetcode/tree/master/2350-find-closest-number-to-zero) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Keerthipriya0802/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Keerthipriya0802/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2128-reverse-prefix-of-word](https://github.com/Keerthipriya0802/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Keerthipriya0802/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Keerthipriya0802/Leetcode/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2365-percentage-of-letter-in-string](https://github.com/Keerthipriya0802/Leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Keerthipriya0802/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Keerthipriya0802/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Keerthipriya0802/Leetcode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/Keerthipriya0802/Leetcode/tree/master/0498-diagonal-traverse) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Keerthipriya0802/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Keerthipriya0802/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Math
 |  |

@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Keerthipriya0802/Leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3194-find-words-containing-character](https://github.com/Keerthipriya0802/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Keerthipriya0802/Leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/Keerthipriya0802/Leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3221-find-the-peaks](https://github.com/Keerthipriya0802/Leetcode/tree/master/3221-find-the-peaks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Keerthipriya0802/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Keerthipriya0802/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Keerthipriya0802/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Keerthipriya0802/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Keerthipriya0802/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/Keerthipriya0802/Leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Keerthipriya0802/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Keerthipriya0802/Leetcode/tree/master/0682-baseball-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Keerthipriya0802/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Keerthipriya0802/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [3220-count-tested-devices-after-test-operations](https://github.com/Keerthipriya0802/Leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
 ## Math
 |  |
 | ------- |

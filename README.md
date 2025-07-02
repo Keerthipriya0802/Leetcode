@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Keerthipriya0802/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Keerthipriya0802/Leetcode/tree/master/0283-move-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Keerthipriya0802/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/Keerthipriya0802/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Keerthipriya0802/Leetcode/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/Keerthipriya0802/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthipriya0802/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Keerthipriya0802/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0299-bulls-and-cows](https://github.com/Keerthipriya0802/Leetcode/tree/master/0299-bulls-and-cows) |
+| [0500-keyboard-row](https://github.com/Keerthipriya0802/Leetcode/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/Keerthipriya0802/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Keerthipriya0802/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Keerthipriya0802/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Keerthipriya0802/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Keerthipriya0802/Leetcode/tree/master/0415-add-strings) |
+| [0500-keyboard-row](https://github.com/Keerthipriya0802/Leetcode/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/Keerthipriya0802/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Keerthipriya0802/Leetcode/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/Keerthipriya0802/Leetcode/tree/master/1205-defanging-an-ip-address) |

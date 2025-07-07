@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Keerthipriya0802/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Keerthipriya0802/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2756-buy-two-chocolates](https://github.com/Keerthipriya0802/Leetcode/tree/master/2756-buy-two-chocolates) |
+| [2881-split-strings-by-separator](https://github.com/Keerthipriya0802/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Keerthipriya0802/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Keerthipriya0802/Leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Keerthipriya0802/Leetcode/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Keerthipriya0802/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2502-sort-the-people](https://github.com/Keerthipriya0802/Leetcode/tree/master/2502-sort-the-people) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Keerthipriya0802/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2881-split-strings-by-separator](https://github.com/Keerthipriya0802/Leetcode/tree/master/2881-split-strings-by-separator) |
 | [3194-find-words-containing-character](https://github.com/Keerthipriya0802/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Stack
 |  |

@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Keerthipriya0802/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Keerthipriya0802/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Keerthipriya0802/Leetcode/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/Keerthipriya0802/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Keerthipriya0802/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Keerthipriya0802/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Keerthipriya0802/Leetcode/tree/master/0506-relative-ranks) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Keerthipriya0802/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0299-bulls-and-cows](https://github.com/Keerthipriya0802/Leetcode/tree/master/0299-bulls-and-cows) |
+| [0496-next-greater-element-i](https://github.com/Keerthipriya0802/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Keerthipriya0802/Leetcode/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/Keerthipriya0802/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1256-rank-transform-of-an-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Keerthipriya0802/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Keerthipriya0802/Leetcode/tree/master/0682-baseball-game) |
 | [2128-reverse-prefix-of-word](https://github.com/Keerthipriya0802/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Matrix
@@ -327,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Keerthipriya0802/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Keerthipriya0802/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

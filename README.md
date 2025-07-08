@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Keerthipriya0802/Leetcode/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/Keerthipriya0802/Leetcode/tree/master/1168-duplicate-zeros) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Keerthipriya0802/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Keerthipriya0802/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Keerthipriya0802/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Keerthipriya0802/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Keerthipriya0802/Leetcode/tree/master/0500-keyboard-row) |
 | [0782-jewels-and-stones](https://github.com/Keerthipriya0802/Leetcode/tree/master/0782-jewels-and-stones) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Keerthipriya0802/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Keerthipriya0802/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Keerthipriya0802/Leetcode/tree/master/0299-bulls-and-cows) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Keerthipriya0802/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Keerthipriya0802/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Keerthipriya0802/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |

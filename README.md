@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1656-count-good-triplets](https://github.com/Keerthipriya0802/Leetcode/tree/master/1656-count-good-triplets) |
 | [1791-richest-customer-wealth](https://github.com/Keerthipriya0802/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1833-find-the-highest-altitude](https://github.com/Keerthipriya0802/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1944-truncate-sentence](https://github.com/Keerthipriya0802/Leetcode/tree/master/1944-truncate-sentence) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Keerthipriya0802/Leetcode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2048-build-array-from-permutation](https://github.com/Keerthipriya0802/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Keerthipriya0802/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/Keerthipriya0802/Leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Greedy
 |  |
 | ------- |

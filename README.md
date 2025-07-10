@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Keerthipriya0802/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Keerthipriya0802/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Keerthipriya0802/Leetcode/tree/master/0506-relative-ranks) |
+| [0575-distribute-candies](https://github.com/Keerthipriya0802/Leetcode/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Keerthipriya0802/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthipriya0802/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Keerthipriya0802/Leetcode/tree/master/0682-baseball-game) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Keerthipriya0802/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0496-next-greater-element-i](https://github.com/Keerthipriya0802/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Keerthipriya0802/Leetcode/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/Keerthipriya0802/Leetcode/tree/master/0575-distribute-candies) |
 | [0782-jewels-and-stones](https://github.com/Keerthipriya0802/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Keerthipriya0802/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/1256-rank-transform-of-an-array) |

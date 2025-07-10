@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/Keerthipriya0802/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Keerthipriya0802/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Keerthipriya0802/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Keerthipriya0802/Leetcode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Keerthipriya0802/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Keerthipriya0802/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Keerthipriya0802/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Keerthipriya0802/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Keerthipriya0802/Leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Enumeration
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Keerthipriya0802/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Keerthipriya0802/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Keerthipriya0802/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/Keerthipriya0802/Leetcode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2756-buy-two-chocolates](https://github.com/Keerthipriya0802/Leetcode/tree/master/2756-buy-two-chocolates) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Keerthipriya0802/Leetcode/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/Keerthipriya0802/Leetcode/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/Keerthipriya0802/Leetcode/tree/master/0917-boats-to-save-people) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Keerthipriya0802/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2756-buy-two-chocolates](https://github.com/Keerthipriya0802/Leetcode/tree/master/2756-buy-two-chocolates) |
 ## Recursion
 |  |

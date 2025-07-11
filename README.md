@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Keerthipriya0802/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0299-bulls-and-cows](https://github.com/Keerthipriya0802/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/Keerthipriya0802/Leetcode/tree/master/0344-reverse-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Keerthipriya0802/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Keerthipriya0802/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Keerthipriya0802/Leetcode/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/Keerthipriya0802/Leetcode/tree/master/0500-keyboard-row) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Keerthipriya0802/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Keerthipriya0802/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Keerthipriya0802/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Keerthipriya0802/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Keerthipriya0802/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Keerthipriya0802/Leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Keerthipriya0802/Leetcode/tree/master/0507-perfect-number) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Keerthipriya0802/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Keerthipriya0802/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Keerthipriya0802/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Keerthipriya0802/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Keerthipriya0802/Leetcode/tree/master/2659-number-of-even-and-odd-bits) |
 ## Divide and Conquer
 |  |

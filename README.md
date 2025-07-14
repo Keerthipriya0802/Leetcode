@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Keerthipriya0802/Leetcode/tree/master/1656-count-good-triplets) |
+| [2083-three-divisors](https://github.com/Keerthipriya0802/Leetcode/tree/master/2083-three-divisors) |
 | [2122-count-special-quadruplets](https://github.com/Keerthipriya0802/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Keerthipriya0802/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/Keerthipriya0802/Leetcode/tree/master/2507-number-of-common-factors) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1349-check-if-it-is-a-straight-line](https://github.com/Keerthipriya0802/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Keerthipriya0802/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Keerthipriya0802/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2083-three-divisors](https://github.com/Keerthipriya0802/Leetcode/tree/master/2083-three-divisors) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Keerthipriya0802/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2507-number-of-common-factors](https://github.com/Keerthipriya0802/Leetcode/tree/master/2507-number-of-common-factors) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Keerthipriya0802/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Keerthipriya0802/Leetcode/tree/master/0258-add-digits) |
+| [2083-three-divisors](https://github.com/Keerthipriya0802/Leetcode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/Keerthipriya0802/Leetcode/tree/master/2507-number-of-common-factors) |
 ## Dynamic Programming
 |  |

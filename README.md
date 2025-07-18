@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Keerthipriya0802/Leetcode/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/Keerthipriya0802/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/Keerthipriya0802/Leetcode/tree/master/0682-baseball-game) |
+| [1195-distribute-candies-to-people](https://github.com/Keerthipriya0802/Leetcode/tree/master/1195-distribute-candies-to-people) |
 | [2048-build-array-from-permutation](https://github.com/Keerthipriya0802/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Keerthipriya0802/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Keerthipriya0802/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Keerthipriya0802/Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Keerthipriya0802/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthipriya0802/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1195-distribute-candies-to-people](https://github.com/Keerthipriya0802/Leetcode/tree/master/1195-distribute-candies-to-people) |
 | [1236-n-th-tribonacci-number](https://github.com/Keerthipriya0802/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Keerthipriya0802/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Keerthipriya0802/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |

@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Keerthipriya0802/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/Keerthipriya0802/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/Keerthipriya0802/Leetcode/tree/master/1656-count-good-triplets) |
 | [1791-richest-customer-wealth](https://github.com/Keerthipriya0802/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/Keerthipriya0802/Leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Keerthipriya0802/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1635-number-of-good-pairs](https://github.com/Keerthipriya0802/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Keerthipriya0802/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2122-count-special-quadruplets](https://github.com/Keerthipriya0802/Leetcode/tree/master/2122-count-special-quadruplets) |
 | [2159-two-out-of-three](https://github.com/Keerthipriya0802/Leetcode/tree/master/2159-two-out-of-three) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Keerthipriya0802/Leetcode/tree/master/0299-bulls-and-cows) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Keerthipriya0802/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1635-number-of-good-pairs](https://github.com/Keerthipriya0802/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Keerthipriya0802/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Keerthipriya0802/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Keerthipriya0802/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Keerthipriya0802/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Keerthipriya0802/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1635-number-of-good-pairs](https://github.com/Keerthipriya0802/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2032-largest-odd-number-in-string](https://github.com/Keerthipriya0802/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2083-three-divisors](https://github.com/Keerthipriya0802/Leetcode/tree/master/2083-three-divisors) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Keerthipriya0802/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |

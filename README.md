@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3221-find-the-peaks](https://github.com/Keerthipriya0802/Leetcode/tree/master/3221-find-the-peaks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Keerthipriya0802/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Keerthipriya0802/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Keerthipriya0802/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Keerthipriya0802/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Keerthipriya0802/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Keerthipriya0802/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Keerthipriya0802/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Keerthipriya0802/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Keerthipriya0802/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Keerthipriya0802/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Simulation
 |  |
 | ------- |

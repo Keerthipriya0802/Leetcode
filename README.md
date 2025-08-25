@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Keerthipriya0802/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/Keerthipriya0802/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1944-truncate-sentence](https://github.com/Keerthipriya0802/Leetcode/tree/master/1944-truncate-sentence) |
+| [1961-maximum-ice-cream-bars](https://github.com/Keerthipriya0802/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Keerthipriya0802/Leetcode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2048-build-array-from-permutation](https://github.com/Keerthipriya0802/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2122-count-special-quadruplets](https://github.com/Keerthipriya0802/Leetcode/tree/master/2122-count-special-quadruplets) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Keerthipriya0802/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Keerthipriya0802/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1961-maximum-ice-cream-bars](https://github.com/Keerthipriya0802/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Keerthipriya0802/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Keerthipriya0802/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Keerthipriya0802/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1137-height-checker](https://github.com/Keerthipriya0802/Leetcode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Keerthipriya0802/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1961-maximum-ice-cream-bars](https://github.com/Keerthipriya0802/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 ## Number Theory
 |  |
 | ------- |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Keerthipriya0802/Leetcode/tree/master/0134-gas-station) |
 | [0605-can-place-flowers](https://github.com/Keerthipriya0802/Leetcode/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/Keerthipriya0802/Leetcode/tree/master/0917-boats-to-save-people) |
+| [1961-maximum-ice-cream-bars](https://github.com/Keerthipriya0802/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2032-largest-odd-number-in-string](https://github.com/Keerthipriya0802/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Keerthipriya0802/Leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Keerthipriya0802/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |

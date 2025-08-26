@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Keerthipriya0802/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/Keerthipriya0802/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/Keerthipriya0802/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/Keerthipriya0802/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/0932-monotonic-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Keerthipriya0802/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Keerthipriya0802/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Keerthipriya0802/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/Keerthipriya0802/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Keerthipriya0802/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Keerthipriya0802/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Keerthipriya0802/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |

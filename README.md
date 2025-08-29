@@ -389,12 +389,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Keerthipriya0802/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Keerthipriya0802/Leetcode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Keerthipriya0802/Leetcode/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Keerthipriya0802/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Keerthipriya0802/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0506-relative-ranks](https://github.com/Keerthipriya0802/Leetcode/tree/master/0506-relative-ranks) |
 | [1127-last-stone-weight](https://github.com/Keerthipriya0802/Leetcode/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -503,9 +505,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Keerthipriya0802/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Keerthipriya0802/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Keerthipriya0802/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Keerthipriya0802/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Keerthipriya0802/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Keerthipriya0802/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Keerthipriya0802/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Keerthipriya0802/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

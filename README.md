@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Keerthipriya0802/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Keerthipriya0802/Leetcode/tree/master/0202-happy-number) |
+| [0223-rectangle-area](https://github.com/Keerthipriya0802/Leetcode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/Keerthipriya0802/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Keerthipriya0802/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Keerthipriya0802/Leetcode/tree/master/0263-ugly-number) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Keerthipriya0802/Leetcode/tree/master/0223-rectangle-area) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Keerthipriya0802/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Monotonic Stack
 |  |

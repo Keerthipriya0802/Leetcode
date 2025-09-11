@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Keerthipriya0802/Leetcode/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2756-buy-two-chocolates](https://github.com/Keerthipriya0802/Leetcode/tree/master/2756-buy-two-chocolates) |
+| [2887-sort-vowels-in-a-string](https://github.com/Keerthipriya0802/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3321-type-of-triangle](https://github.com/Keerthipriya0802/Leetcode/tree/master/3321-type-of-triangle) |
 ## Binary Search
 |  |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/Keerthipriya0802/Leetcode/tree/master/2502-sort-the-people) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Keerthipriya0802/Leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2881-split-strings-by-separator](https://github.com/Keerthipriya0802/Leetcode/tree/master/2881-split-strings-by-separator) |
+| [2887-sort-vowels-in-a-string](https://github.com/Keerthipriya0802/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Keerthipriya0802/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/Keerthipriya0802/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/Keerthipriya0802/Leetcode/tree/master/3396-valid-word) |

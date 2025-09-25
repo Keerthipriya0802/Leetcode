@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Keerthipriya0802/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Keerthipriya0802/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Keerthipriya0802/Leetcode/tree/master/0263-ugly-number) |
+| [0279-perfect-squares](https://github.com/Keerthipriya0802/Leetcode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Keerthipriya0802/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Keerthipriya0802/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Keerthipriya0802/Leetcode/tree/master/0342-power-of-four) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Keerthipriya0802/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Keerthipriya0802/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Keerthipriya0802/Leetcode/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/Keerthipriya0802/Leetcode/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Keerthipriya0802/Leetcode/tree/master/0343-integer-break) |
 | [0747-min-cost-climbing-stairs](https://github.com/Keerthipriya0802/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/Keerthipriya0802/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -557,4 +559,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Keerthipriya0802/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0279-perfect-squares](https://github.com/Keerthipriya0802/Leetcode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->

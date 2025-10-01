@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Keerthipriya0802/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/Keerthipriya0802/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Keerthipriya0802/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Keerthipriya0802/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Keerthipriya0802/Leetcode/tree/master/0049-group-anagrams) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Keerthipriya0802/Leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Keerthipriya0802/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Keerthipriya0802/Leetcode/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/Keerthipriya0802/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Keerthipriya0802/Leetcode/tree/master/0141-linked-list-cycle) |

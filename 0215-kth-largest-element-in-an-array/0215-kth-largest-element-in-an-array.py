@@ -1,0 +1,7 @@
+class Solution(object):
+    def findKthLargest(self, nums, k):
+        d=sorted(nums,reverse=True)
+        return d[k-1]
+
+
+        

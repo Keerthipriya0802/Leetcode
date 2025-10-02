@@ -534,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0185-department-top-three-salaries](https://github.com/Keerthipriya0802/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Keerthipriya0802/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/Keerthipriya0802/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 ## Probability and Statistics

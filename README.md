@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Keerthipriya0802/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Keerthipriya0802/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Keerthipriya0802/Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Keerthipriya0802/Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Keerthipriya0802/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Keerthipriya0802/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Keerthipriya0802/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Keerthipriya0802/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Keerthipriya0802/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Keerthipriya0802/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Keerthipriya0802/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Keerthipriya0802/Leetcode/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Keerthipriya0802/Leetcode/tree/master/0279-perfect-squares) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Keerthipriya0802/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Keerthipriya0802/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Keerthipriya0802/Leetcode/tree/master/0134-gas-station) |
 | [0605-can-place-flowers](https://github.com/Keerthipriya0802/Leetcode/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/Keerthipriya0802/Leetcode/tree/master/0917-boats-to-save-people) |

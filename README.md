@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3164-last-visited-integers](https://github.com/Keerthipriya0802/Leetcode/tree/master/3164-last-visited-integers) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/Keerthipriya0802/Leetcode/tree/master/3220-count-tested-devices-after-test-operations) |
+| [3336-water-bottles-ii](https://github.com/Keerthipriya0802/Leetcode/tree/master/3336-water-bottles-ii) |
 ## Math
 |  |
 | ------- |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/Keerthipriya0802/Leetcode/tree/master/2507-number-of-common-factors) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Keerthipriya0802/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/Keerthipriya0802/Leetcode/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/Keerthipriya0802/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Keerthipriya0802/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Keerthipriya0802/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Keerthipriya0802/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |

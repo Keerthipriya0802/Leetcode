@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Keerthipriya0802/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Keerthipriya0802/Leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Keerthipriya0802/Leetcode/tree/master/0343-integer-break) |
+| [0365-water-and-jug-problem](https://github.com/Keerthipriya0802/Leetcode/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/Keerthipriya0802/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Keerthipriya0802/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Keerthipriya0802/Leetcode/tree/master/0412-fizz-buzz) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Keerthipriya0802/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0365-water-and-jug-problem](https://github.com/Keerthipriya0802/Leetcode/tree/master/0365-water-and-jug-problem) |
 ## Binary Tree
 |  |
 | ------- |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Keerthipriya0802/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0279-perfect-squares](https://github.com/Keerthipriya0802/Leetcode/tree/master/0279-perfect-squares) |
+| [0365-water-and-jug-problem](https://github.com/Keerthipriya0802/Leetcode/tree/master/0365-water-and-jug-problem) |
 ## Combinatorics
 |  |
 | ------- |

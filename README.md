@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/Keerthipriya0802/Leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthipriya0802/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0830-largest-triangle-area](https://github.com/Keerthipriya0802/Leetcode/tree/master/0830-largest-triangle-area) |
+| [1086-divisor-game](https://github.com/Keerthipriya0802/Leetcode/tree/master/1086-divisor-game) |
 | [1195-distribute-candies-to-people](https://github.com/Keerthipriya0802/Leetcode/tree/master/1195-distribute-candies-to-people) |
 | [1236-n-th-tribonacci-number](https://github.com/Keerthipriya0802/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Keerthipriya0802/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -420,11 +421,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Keerthipriya0802/Leetcode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/Keerthipriya0802/Leetcode/tree/master/1086-divisor-game) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Keerthipriya0802/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Keerthipriya0802/Leetcode/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/Keerthipriya0802/Leetcode/tree/master/1086-divisor-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Keerthipriya0802/Leetcode/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Keerthipriya0802/Leetcode/tree/master/0343-integer-break) |
 | [0747-min-cost-climbing-stairs](https://github.com/Keerthipriya0802/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [1086-divisor-game](https://github.com/Keerthipriya0802/Leetcode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Keerthipriya0802/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Keerthipriya0802/Leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 ## Memoization

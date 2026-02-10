@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Keerthipriya0802/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Keerthipriya0802/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/Keerthipriya0802/Leetcode/tree/master/1656-count-good-triplets) |
+| [1672-richest-customer-wealth](https://github.com/Keerthipriya0802/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1791-richest-customer-wealth](https://github.com/Keerthipriya0802/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/Keerthipriya0802/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Keerthipriya0802/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Keerthipriya0802/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Keerthipriya0802/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Keerthipriya0802/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1791-richest-customer-wealth](https://github.com/Keerthipriya0802/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Keerthipriya0802/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Simulation

@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Keerthipriya0802/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Keerthipriya0802/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Keerthipriya0802/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Keerthipriya0802/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Keerthipriya0802/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Keerthipriya0802/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Keerthipriya0802/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/Keerthipriya0802/Leetcode/tree/master/0682-baseball-game) |
 | [1195-distribute-candies-to-people](https://github.com/Keerthipriya0802/Leetcode/tree/master/1195-distribute-candies-to-people) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Keerthipriya0802/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/Keerthipriya0802/Leetcode/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/Keerthipriya0802/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Keerthipriya0802/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |

@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Keerthipriya0802/Leetcode/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/Keerthipriya0802/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0905-sort-array-by-parity](https://github.com/Keerthipriya0802/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0907-koko-eating-bananas](https://github.com/Keerthipriya0802/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/Keerthipriya0802/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0932-monotonic-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/0932-monotonic-array) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Keerthipriya0802/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Keerthipriya0802/Leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Keerthipriya0802/Leetcode/tree/master/0567-permutation-in-string) |
+| [0905-sort-array-by-parity](https://github.com/Keerthipriya0802/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0908-middle-of-the-linked-list](https://github.com/Keerthipriya0802/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Keerthipriya0802/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0958-sort-array-by-parity-ii](https://github.com/Keerthipriya0802/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Keerthipriya0802/Leetcode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keerthipriya0802/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Keerthipriya0802/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/Keerthipriya0802/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0917-boats-to-save-people](https://github.com/Keerthipriya0802/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0958-sort-array-by-parity-ii](https://github.com/Keerthipriya0802/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Keerthipriya0802/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
